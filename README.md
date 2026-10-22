@@ -1,4 +1,4 @@
-This project has been made on a linux system, and has not been tested on other systems. Also, you will need to install sdl3 on your system before the game works. To play the game, download the 'release' directory and run the executable located inside it.
+This project has been made on a linux system, and has not been tested on other systems. Also, you will need to install sdl3, adl3_ttf, and (maybe) sdl3_image on your system before the game works -- NOTE: these are the arch linux package names, they may different on your distro --. To play the game, download the 'release' directory and run the executable located inside it.
 
 CONTROLS:
 WASD for movement
