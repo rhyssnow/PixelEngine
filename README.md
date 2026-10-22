@@ -1,1 +1,14 @@
-This project has been made on a linux system, and has not been tested on other systems. Also, you will need to install sdl3 on your system before the game works, because I was too lazy to build it into the file structure.
+This project has been made on a linux system, and has not been tested on other systems. Also, you will need to install sdl3 on your system before the game works. To play the game, download the 'release' directory and run the executable located inside it.
+
+CONTROLS:
+WASD for movement
+X for attack
+Shift for sprint
+Arrow keys to look in a direction
+You can look in a direction other than the one you are moving in, but your speed will be reduced.
+Space to jump
+While in the air you will not take damage
+
+The red bar is health, the green is stamina, and the purple is mana (though no mana systems have been added, so you can ignore the purple bar.
+
+The goal of the game is to live as long as possible and kill as many wolves as you can.
